@@ -1,4 +1,4 @@
-Devops Project
+### **Devops Project**
 
 This was a project created to learn more about Continuous Integration and Continuous Deployment. Github Link
 
